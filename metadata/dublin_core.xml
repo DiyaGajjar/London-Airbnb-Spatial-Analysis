@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>London Airbnb Spatial Analysis: Investigating Structural and Economic Segmentation</dc:title>
+    <dc:creator>Diya Gajjar</dc:creator>
+    <dc:subject>Spatial Data Science; Geographically Weighted Regression (GWR); Market Segmentation; K-Means Clustering; t-SNE</dc:subject>
+    <dc:description>A geospatial data science pipeline analyzing London's short-term rental market. The project shifts from a global OLS baseline to a local Geographically Weighted Regression (GWR) to model spatial non-stationarity and map commercial market divides.</dc:description>
+    <dc:publisher>MSc Data Science Portfolio</dc:publisher>
+    <dc:date>2026-06-01</dc:date>
+    <dc:type>Dataset; Software Pipeline; Research Artifact</dc:type>
+    <dc:format>CSV; Jupyter Notebook (.ipynb); PDF</dc:format>
+    <dc:identifier>https://github.com/london-airbnb-spatial-analysis</dc:identifier>
+    <dc:language>en</dc:language>
+    <dc:coverage>United Kingdom; London; Greater London Borough Boundaries</dc:coverage>
+</metadata>
