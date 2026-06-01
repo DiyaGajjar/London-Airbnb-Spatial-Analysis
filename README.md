@@ -4,7 +4,7 @@ A visual and spatial analysis of London's Airbnb market using t-SNE, K-Means clu
 ## Description
 This project investigates the structural segmentation and spatial dynamics of the Airbnb market in London. Using K-Means clustering and Geographically Weighted Regression (GWR), the research identifies how host types and geographical location influence pricing, proving that spatially-aware models significantly outperform standard global OLS regressions in predicting urban market trends.
 
-## 💾 Data Availability & Replication
+## Data Availability & Replication
 Due to file size restrictions, the raw, uncompressed `listings.csv` dataset from the accompanying London Airbnb spatial analysis workflow is not hosted directly within this repository. 
 
 To replicate the companion spatial pipelines, econometric models, and machine learning workflows:
